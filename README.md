@@ -1,5 +1,5 @@
 # Test Cards Demo
-> Summary description here.
+> How to play cards!
 
 
 This file will become your README and also the index of your documentation.
@@ -10,15 +10,15 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Our main class is the Card for an individual card:
 
 ```python
-1+1
+Card(suit=1, rank=3)
 ```
 
 
 
 
-    2
+    3 of Diamonds
 
 
