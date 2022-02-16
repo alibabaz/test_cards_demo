@@ -1,6 +1,7 @@
 {
   "test_cards_demo": {
     "Overview": "/",
-    "Card": "card.html"
+    "Card": "card.html",
+    "Deck": "deck.html"
   }
 }
